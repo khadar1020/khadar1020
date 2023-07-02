@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **React-js**
 
-- 🤝 I’m looking for help with **codesetgo**
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,CORE JAVA,PYTHON**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, CORE JAVA, PYTHON**
 
 - 📫 How to reach me **khadarvsk@gmail.com**
 
