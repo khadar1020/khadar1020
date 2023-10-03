@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React-js**
 
+-  🚀Ranked in Top50 girlscript summer of code👩‍💻🏆.
+
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, CORE JAVA, PYTHON**
 
 - 📫 How to reach me **khadarvsk@gmail.com**
