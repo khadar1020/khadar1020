@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadar1020&show_icons=true&locale=en" alt="khadar1020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadar1020&" alt="khadar1020" /></p>
-[![An image of @khadar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khadar)](https://holopin.io/@khadar)
