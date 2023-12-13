@@ -1,4 +1,4 @@
-![logo](https://github.com/khadar1020/khadar1020/blob/main/logo.jpg)
+![logo](https://github.com/khadar1020/khadar1020/blob/main/fullstack.jpg)
 
 <h1 align="center">Hi 👋, I'm Khadar</h1>
 <h3 align="center">A passionate frontend developer and AI enthusiast from India</h3>
