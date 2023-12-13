@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)](https://khadar1020.io)
+![logo](https://github.com/khadar1020/khadar1020/blob/main/logo.jpg)
 
 <h1 align="center">Hi 👋, I'm Khadar</h1>
 <h3 align="center">A passionate frontend developer and AI enthusiast from India</h3>
