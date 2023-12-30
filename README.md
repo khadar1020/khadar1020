@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadar1020" alt="khadar1020" /></a> </p>
 
-- 🌱 I’m currently learning **React-js**
+- 🌱 I’m currently learning **Node-js**
 
 -  🚀Ranked in Top50 girlscript summer of code👩‍💻🏆.
 
