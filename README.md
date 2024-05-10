@@ -11,6 +11,8 @@
 
 -  🚀Ranked in Top50 girlscript summer of code👩‍💻🏆.
 
+-  🌟GSoC 2024 @sugarlabs🤖🎉. 
+
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, CORE JAVA, PYTHON**
 
 - 📫 How to reach me **khadarvsk@gmail.com**
