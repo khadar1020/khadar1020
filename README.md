@@ -20,8 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khadarvsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khadarvsk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/khadar-vali-43a835283/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="in/khadar-vali-28481224b" height="30" width="40" /></a>
-<a href="https://medium.com/@khadarvsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/khadar-vali-28481224b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadar-vali-43a835283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/khadar-vali-28481224b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19977889/khadar-vali?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khadar vali" height="30" width="40" /></a>
 <a href="https://instagram.com/khadar_1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadar_1020" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khadarvsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khadarvsk" height="30" width="40" /></a>
